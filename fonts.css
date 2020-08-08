@@ -1,0 +1,65 @@
+/* sans-serif ============== */
+
+@font-face {
+font-family: 'Anaheim';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/anaheim.ttf); }
+
+@font-face {
+font-family: 'Big Noodle';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/bignoodle.ttf); }
+
+@font-face {
+font-family: 'Forza Book';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-book.ttf); }
+
+@font-face {
+font-family: 'Forza Light';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-light.ttf); }
+
+@font-face {
+font-family: 'Kinto Sans';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kinto-sans.ttf); }
+
+@font-face {
+font-family: 'Mulish';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mulish.ttf); }
+
+@font-face {
+font-family: 'Staatliches';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/staatliches.ttf); }
+
+/* monospace & bitmap ============== */
+
+@font-face {
+font-family: 'ChronoType';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/chronotype.ttf); }
+
+@font-face {
+font-family: 'Compass Pro';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/compass_pro.ttf); }
+
+@font-face {
+font-family: 'Fatal Fury';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fatal-fury-b.TTF); }
+
+@font-face {
+font-family: 'Fool';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fool.ttf); }
+
+@font-face {
+font-family: 'm5x7';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m5x7.ttf); }
+
+@font-face {
+font-family: 'Perfect DOS';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/perfect_dos.ttf); }
+
+/* handwriting & script */
+
+@font-face {
+font-family: 'Comic Neue';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/comicneue.ttf); }
+
+@font-face {
+font-family: 'Back Issues';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/basic_issues.ttf); }
