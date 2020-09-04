@@ -17,6 +17,10 @@ font-family: 'Forza Light';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-light.ttf); }
 
 @font-face {
+font-family: 'Jun501 Pro';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/jun501-pro.otf); }
+
+@font-face {
 font-family: 'Kinto Sans';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kinto-sans.ttf); }
 
@@ -25,10 +29,24 @@ font-family: 'Mulish';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mulish.ttf); }
 
 @font-face {
+font-family: 'National Park';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/nationalpark_reg.otf); }
+
+@font-face {
 font-family: 'Staatliches';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/staatliches.ttf); }
 
+/* serif ============== */
+
+@font-face {
+font-family: 'Neothic';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/neothic.ttf); }
+
 /* monospace & bitmap ============== */
+
+@font-face {
+font-family: 'Anonymous Pro';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/anonymous-pro.ttf); }
 
 @font-face {
 font-family: 'ChronoType';
@@ -47,8 +65,16 @@ font-family: 'Fool';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fool.ttf); }
 
 @font-face {
+font-family: 'Kosugi Maru';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kosugi-maru.ttf); }
+
+@font-face {
 font-family: 'm5x7';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m5x7.ttf); }
+
+@font-face {
+font-family: 'Nintendo DS';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/nintendo_ds.otf); }
 
 @font-face {
 font-family: 'Perfect DOS';
@@ -63,3 +89,7 @@ src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/comicneue.ttf); }
 @font-face {
 font-family: 'Back Issues';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/basic_issues.ttf); }
+
+@font-face {
+font-family: 'K Gothic';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/k-gothic.ttf); }
