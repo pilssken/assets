@@ -57,6 +57,10 @@ font-family:'Lato';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/lato.ttf); }
 
 @font-face {
+font-family:'Mactype';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mactype.ttf); }
+
+@font-face {
 font-family:'Mulish';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mulish.ttf); }
 
@@ -99,6 +103,10 @@ font-family:'IM Fell';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/im-fell-dw.ttf); }
 
 @font-face {
+font-family:'Kowai Mincho';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kowai-mincho.ttf); }
+
+@font-face {
 font-family:'Neothic';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/neothic.ttf); }
 
@@ -129,8 +137,16 @@ font-family:'Connection';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/connection_regular.otf); }
 
 @font-face {
+font-family:'CP Mono';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cp-mono.otf); }
+
+@font-face {
 font-family:'Curese';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/curese.ttf); }
+
+@font-face {
+font-family:'Debug Menu';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/debug-menu.ttf); }
 
 @font-face {
 font-family:'Expression';
@@ -147,6 +163,14 @@ src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fool.ttf); }
 @font-face {
 font-family:'Kosugi Maru';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kosugi-maru.ttf); }
+
+@font-face {
+font-family:'M01 CPS';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m01-cps.ttf); }
+
+@font-face {
+font-family:'M35 CPS';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m35-cps.ttf); }
 
 @font-face {
 font-family:'m5x7';
@@ -177,6 +201,10 @@ font-family:'Pokemon Mystery Dungeon';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/pmd.ttf); }
 
 @font-face {
+font-family:'PX Sans';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/px-sans.ttf); }
+
+@font-face {
 font-family:'Reactor7';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/reactor_7.otf); }
 
@@ -191,6 +219,10 @@ src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ryakuji.ttf); }
 @font-face {
 font-family:'Sarasa';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/sarasa.ttf); }
+
+@font-face {
+font-family:'Silkscreen';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/silkscreen.ttf); }
 
 @font-face {
 font-family:'VCR Mono';
