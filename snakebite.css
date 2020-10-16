@@ -28,6 +28,12 @@ p:last-child { margin-bottom:0; }
 
 pre, code { font-family:monospace; font-size:1em; overflow-x:auto; }
 
+blockquote:first-child { margin-top:0; }
+blockquote:last-child { margin-bottom:0; }
+
+ul:first-child, ol:first-child { margin-top:0; }
+ul:last-child, ol:last-child { margin-bottom:0; }
+
 table { border-color:inherit; text-indent:0; }
 
 details { display:block; }
