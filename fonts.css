@@ -57,6 +57,10 @@ font-family:'Coda';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/coda.ttf); }
 
 @font-face {
+font-family:'ChicagoFLF';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ChicagoFLF.ttf) format('truetype'); }
+
+@font-face {
 font-family:'Crimson';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/crimson.otf); }
 
