@@ -376,6 +376,10 @@ src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/xanhmono.ttf); }
 font-family:'Yoster Island';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/yoster_island.ttf); }
 
+@font-face {
+font-family:'ZPix';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/zpix.ttf); }
+
 /* handwriting & script */
 
 @font-face {
