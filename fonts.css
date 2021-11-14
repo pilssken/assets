@@ -283,6 +283,10 @@ font-family:'ChronoType';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/chronotype.ttf); }
 
 @font-face {
+font-family:'Classic Console Neue';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/clacon.ttf); }
+
+@font-face {
 font-family:'Compass Pro';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/compass_pro.ttf); }
 
