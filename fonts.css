@@ -103,6 +103,10 @@ font-family:'Highway Gothic Expanded';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/hwygoth-exp.TTF); }
 
 @font-face {
+font-family:'Humming';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/humming.otf); }
+
+@font-face {
 font-family:'Jun501 Pro';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/jun501-pro.otf); }
 
@@ -189,6 +193,10 @@ src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/RodinWanpakuPro-B.otf
 @font-face {
 font-family:'Slump';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/Slump.otf); }
+
+@font-face {
+font-family:'Super Mario Maker';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/super-mario-maker.ttf); }
 
 @font-face {
 font-family:'Staatliches';
