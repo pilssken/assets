@@ -1,90 +1,80 @@
-/* sans-serif ============== */
-
 @font-face {
 font-family:'ABeeZee';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/abeezee.ttf); }
-
-@font-face {
-font-family:'Aileron';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/aileron-reg.otf); }
-@font-face {
-font-family:'Aileron Light';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/aileron-light.otf); }
-@font-face {
-font-family:'Aileron Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/aileron-bold.otf); }
-@font-face {
-font-family:'Aileron Black';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/aileron-black.otf); }
 
 @font-face {
 font-family:'Anaheim';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/anaheim.ttf); }
 
 @font-face {
-font-family:'Audiowide';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/audiowide.ttf); }
+font-family:'Anonymous Pro';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/anonymous-pro.ttf); }
 
 @font-face {
-font-family:'Arimo';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/arimo-reg.ttf); }
-@font-face {
-font-family:'Arimo Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/arimo-bold.ttf); }
+font-family:'Bambi';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/bambi.ttf); }
 
 @font-face {
 font-family:'Big Noodle';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/bignoodle.ttf); }
 
 @font-face {
-font-family:'Bottix';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/bottix.ttf); }
+font-family:'Blackletter';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/blackletter.ttf); }
 
 @font-face {
 font-family:'Cabin';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cabin.otf); }
-@font-face {
-font-family:'Cabin Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cabin-bold.otf); }
 
 @font-face {
 font-family:'Coda';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/coda.ttf); }
 
 @font-face {
-font-family:'ChicagoFLF';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ChicagoFLF.ttf) format('truetype'); }
+font-family:'Comic Neue';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/comicneue.ttf); }
 
 @font-face {
-font-family:'Crimson';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/crimson.otf); }
+font-family:'Cormorant';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cormorant-reg.ttf); }
 
 @font-face {
-font-family:'Folk Pro';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/FolkPro.otf); }
-@font-face {
-font-family:'Folk Pro B';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/FokPro-B.otf); }
+font-family:'Courier Prime';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/courier-prime.ttf); }
 
 @font-face {
-font-family:'Forza Medium';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-medium.ttf); }
-@font-face {
-font-family:'Forza Light';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-light.ttf); }
-@font-face {
-font-family:'Forza Book';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-book.ttf); }
-@font-face {
-font-family:'Forza Black';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/forza-black.ttf); }
+font-family:'D-Din';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/d-din.otf); }
 
 @font-face {
-font-family:'GMaruGoPro M';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/GMaruGoPro-M.otf); }
+font-family:'DreamHanSansJP1';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSansJP-W1.ttf); }
 @font-face {
-font-family:'GMaruGoPro B';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/GMaruGoPro-B.otf); }
+font-family:'DreamHanSansJP10';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSansJP-W10.ttf); }
+@font-face {
+font-family:'DreamHanSansJP20';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSansJP-W20.ttf); }
+@font-face {
+font-family:'DreamHanSansJP27';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSansJP-W27.ttf); }
+
+@font-face {
+font-family:'DreamHanSerifJP1';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSerifJP-W1.ttf); }
+@font-face {
+font-family:'DreamHanSerifJP10';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSerifJP-W10.ttf); }
+@font-face {
+font-family:'DreamHanSerifJP20';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSerifJP-W20.ttf); }
+@font-face {
+font-family:'DreamHanSerifJP27';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/DreamHanSerifJP-W27.ttf); }
+
+@font-face {
+font-family:'Hallowed Grounds';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/hallowed-grounds.otf); }
 
 @font-face {
 font-family:'Highway Gothic';
@@ -103,12 +93,14 @@ font-family:'Highway Gothic Expanded';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/hwygoth-exp.TTF); }
 
 @font-face {
-font-family:'Humming';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/humming.otf); }
-
+font-family:'Illusion Z';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionz-reg.ttf); }
 @font-face {
-font-family:'Jun501 Pro';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/jun501-pro.otf); }
+font-family:'Illusion W';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionw-reg.ttf); }
+@font-face {
+font-family:'Illusion N';
+src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionn-reg.ttf); }
 
 @font-face {
 font-family:'Kinto Sans';
@@ -119,28 +111,24 @@ font-family:'Kosugi Maru';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kosugi-maru.ttf); }
 
 @font-face {
+font-family:'Kowai Mincho';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kowai-mincho.ttf); }
+
+@font-face {
 font-family:'Lato';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/lato.ttf); }
 
 @font-face {
-font-family:'Mactype';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mactype.ttf); }
+font-family:'m5x7';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m5x7.ttf); }
 
 @font-face {
-font-family:'MaruFoPro H';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/MaruFoPro-H.otf); }
-
-@font-face {
-font-family:'Mourier';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mourier.otf); }
+font-family:'Makinas';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/makinas.otf); }
 
 @font-face {
 font-family:'Mulish';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/mulish.ttf); }
-
-@font-face {
-font-family:'MS Sans Serif';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ms-sans.ttf); }
 
 @font-face {
 font-family:'National Park';
@@ -153,19 +141,16 @@ font-family:'National Park Heavy';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/nationalpark_heavy.otf); }
 
 @font-face {
-font-family:'New Cinema';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/NewCinema.otf); }
+font-family:'Neothic';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/neothic.ttf); }
 
 @font-face {
 font-family:'Open Dyslexic';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/opendyslexic-reg.otf); }
-@font-face {
-font-family:'Open Dyslexic Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/opendyslexic-bold.otf); }
 
 @font-face {
-font-family:'Pearl';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/pearl-std.otf); }
+font-family:'Perfect DOS';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/perfect_dos.ttf); }
 
 @font-face {
 font-family:'Public Sans';
@@ -176,270 +161,32 @@ font-family:'Railroad Gothic';
 src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/railroadgothic.otf); }
 
 @font-face {
-font-family:'Reggae';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ReggaeStd.otf); }
-
-@font-face {
-font-family:'Rodin Bokutoh Pro M';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/RodinBokutohPro-M.otf); }
-
-@font-face {
-font-family:'Rodin Wanpaku Pro M';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/RodinWanpakuPro-M.otf); }
-@font-face {
-font-family:'Rodin Wanpaku Pro B';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/RodinWanpakuPro-B.otf); }
-
-@font-face {
-font-family:'Slump';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/Slump.otf); }
-
-@font-face {
 font-family:'Super Mario Maker';
 src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/super-mario-maker.ttf); }
 
 @font-face {
 font-family:'Staatliches';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/staatliches.ttf); }
-
-/* serif ============== */
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/staatliches.ttf); }
 
 @font-face {
-font-family:'Apple Garamond';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/apple-garamond.ttf); }
-
+font-family:'Victor Mono';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/victor-mono.otf); }
 @font-face {
-font-family:'Bambi';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/bambi.ttf); }
-
-@font-face {
-font-family:'Besley Book';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/besley-book.ttf); }
-@font-face {
-font-family:'Besley Medium';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/besley-med.ttf); }
-@font-face {
-font-family:'Besley Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/besley-bold.ttf); }
-@font-face {
-font-family:'Besley Extra Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/besley-extrabold.ttf); }
-
-@font-face {
-font-family:'Blackletter';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/blackletter.ttf); }
-
-@font-face {
-font-family:'Butler';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/butler.otf); }
-
-@font-face {
-font-family:'Caladea';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/caladea.ttf); }
-
-@font-face {
-font-family:'Cormorant';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cormorant-reg.ttf); }
-@font-face {
-font-family:'Cormorant Bold';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cormorant-bold.ttf); }
-
-@font-face {
-font-family:'Crimson';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/crimson.otf); }
-
-@font-face {
-font-family:'Hallowed Grounds';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/hallowed-grounds.otf); }
-
-@font-face {
-font-family:'IM Fell';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/im-fell-dw.ttf); }
-
-@font-face {
-font-family:'Kowai Mincho';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kowai-mincho.ttf); }
-
-@font-face {
-font-family:'Neothic';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/neothic.ttf); }
-
-@font-face {
-font-family:'Romana';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/romana.otf); }
-
-/* monospace & bitmap ============== */
-
-@font-face {
-font-family:'Anonymous Pro';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/anonymous-pro.ttf); }
-
-@font-face {
-font-family:'Belmont';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/belmont.ttf); }
-
-@font-face {
-font-family:'ChronoType';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/chronotype.ttf); }
-
-@font-face {
-font-family:'Classic Console Neue';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/clacon.ttf); }
-
-@font-face {
-font-family:'Compass Pro';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/compass_pro.ttf); }
-
-@font-face {
-font-family:'Connection';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/connection_regular.otf); }
-
-@font-face {
-font-family:'Courier Prime';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/courier-prime.ttf); }
-
-@font-face {
-font-family:'CP Mono';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/cp-mono.otf); }
-
-@font-face {
-font-family:'Curese';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/curese.ttf); }
-
-@font-face {
-font-family:'Debug Menu';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/debug-menu.ttf); }
-
-@font-face {
-font-family:'Expression';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/expression.ttf); }
-
-@font-face {
-font-family:'Fatal Fury';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fatal-fury-b.TTF); }
-
-@font-face {
-font-family:'Fool';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/fool.ttf); }
-
-@font-face {
-font-family:'Illusion Z';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionz-reg.ttf); }
-@font-face {
-font-family:'Illusion W';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionw-reg.ttf); }
-@font-face {
-font-family:'Illusion N';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/illusionn-reg.ttf); }
-
-@font-face {
-font-family:'Kosugi Maru';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/kosugi-maru.ttf); }
-
-@font-face {
-font-family:'M01 CPS';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m01-cps.ttf); }
-@font-face {
-font-family:'M35 CPS';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m35-cps.ttf); }
-
-@font-face {
-font-family:'m5x7';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/m5x7.ttf); }
-
-@font-face {
-font-family:'Nintendo DS';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/nintendo_ds.otf); }
-
-@font-face {
-font-family:'Onett';
-src: url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/onett.ttf); }
-
-@font-face {
-font-family:'Osaka Unicode';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/osaka-unicode.ttf); }
-
-@font-face {
-font-family:'Perfect DOS';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/perfect_dos.ttf); }
-
-@font-face {
-font-family:'Pixel Mplus';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/pixel-mplus.ttf); }
-
-@font-face {
-font-family:'Pokemon';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/pokemon.otf); }
-
-@font-face {
-font-family:'Pokemon Mystery Dungeon';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/pmd.ttf); }
-
-@font-face {
-font-family:'PX Sans';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/px-sans.ttf); }
-
-@font-face {
-font-family:'Reactor7';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/reactor_7.otf); }
-
-@font-face {
-font-family:'Ricty';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ricty.ttf); }
-
-@font-face {
-font-family:'Ryakuji';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/ryakuji.ttf); }
-
-@font-face {
-font-family:'Sarasa';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/sarasa.ttf); }
-
-@font-face {
-font-family:'Silkscreen';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/silkscreen.ttf); }
-
-@font-face {
-font-family:'VCR Mono';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/vcr_mono.ttf); }
+font-family:'Victor Mono Italic';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/victor-mono-italic.otf); }
 
 @font-face {
 font-family:'Xanh Mono';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/xanhmono.ttf); }
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/xanh-mono.ttf); }
 
 @font-face {
-font-family:'Yoster Island';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/yoster_island.ttf); }
+font-family:'Zen Antique';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/zen-antique.ttf); }
 
 @font-face {
-font-family:'ZPix';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/zpix.ttf); }
-
-/* handwriting & script */
+font-family:'Zen Maru Gothic';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/zen-marugothic.ttf); }
 
 @font-face {
-font-family:'Back Issues';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/basic_issues.ttf); }
-
-@font-face {
-font-family:'Comic Neue';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/comicneue.ttf); }
-
-@font-face {
-font-family:'K Gothic';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/k-gothic.ttf); }
-
-@font-face {
-font-family:'Manly Men';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/manlymen.otf); }
-
-@font-face {
-font-family:'Redacted Regular';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/redacted-reg.ttf); }
-@font-face {
-font-family:'Redacted Script';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/redacted-script.ttf); }
-
-@font-face {
-font-family:'Webletterer';
-src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/webletterer.ttf); }
+font-family:'Zen Old Gothic';
+src:url(https://cdn.jsdelivr.net/gh/pilssken/assets/fonts/zen-oldgothic.ttf); }
